@@ -1,7 +1,7 @@
 
 
 
-# Hey there! 👋 Welcome to my Digital Garden
+# Hey there! 👋 Welcome to my GitHub
 
 <p align="center">
   <strong>I am Nazar Aktosun</strong><br>
